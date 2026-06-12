@@ -4,7 +4,6 @@
   # Hola 👋, soy Jesús Fleitas
   ### *Product Manager, Arquitecto Tech & GTM Strategist*
   
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jerchufleitas" alt="jerchufleitas" /></a>
 </div>
 
 ---
