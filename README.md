@@ -2,7 +2,7 @@
   <img src="./snek.gif" alt="Jesus Fleitas Cyberpunk AI" width="250" style="border-radius: 10px; margin-bottom: 20px;" />
 
   # 👋 Hola!, soy Jesús Fleitas
-  ### *Founder de [Fusa Labs](https://github.com/Fusa-Labs), Product Manager & Design Marketing Strategist*
+  ### *Founder de [Fusa Labs](https://www.fusalabs.com/), Product Manager & Design Marketing Strategist*
   
 </div>
 
@@ -11,7 +11,7 @@
 ## ⚡ About me
 Soy una persona de mente muy curiosa, que siempre está investigando algo distinto, lo que siempre me lleva a conectar ideas usando lógicas poco convencionales. Mi formación en Administración de Empresas me ayudó a transformar buenas propuestas en grandes ideas de negocios. Pienso que estos atributos son mis herramientas más importantes a la hora de trabajar en una Agencia de IA como lo es Fusa Labs.
 
-Hoy estoy construyendo desde [Fusa Labs](https://github.com/Fusa-Labs). Nos dedicamos a integrar Inteligencia Artificial en sistemas y escalar negocios automatizando procesos bajo tecnologías y estrategias de vanguardia.
+Hoy estoy construyendo desde [Fusa Labs](https://www.fusalabs.com/). Nos dedicamos a integrar Inteligencia Artificial en sistemas y escalar negocios automatizando procesos bajo tecnologías y estrategias de vanguardia.
 
 - 🔭 **Construyendo:** Actualmente liderando el producto y la estrategia comercial de **NEXO CRM**.
 - 🌱 **Dominando:** Automatizaciones de procesos, Inteligencia Artificial y Product Marketing.
