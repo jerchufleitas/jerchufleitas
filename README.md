@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJpZTFydzg2ZzFnaTZsbHBhaG16eDVzb3hjbTYyMzZncnVmMWlnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wykXzIq14JZJyVOiAa/giphy.gif" alt="Jesus Fleitas Cyberpunk AI" width="250" style="border-radius: 10px; margin-bottom: 20px;" />
+  <img src="https://media.giphy.com/media/wykXzIq14JZJyVOiAa/giphy.gif" alt="Jesus Fleitas Cyberpunk AI" width="250" style="border-radius: 10px; margin-bottom: 20px;" />
 
   # Hola 👋, soy Jesús Fleitas
   ### *Product Manager, Arquitecto Tech & GTM Strategist*
