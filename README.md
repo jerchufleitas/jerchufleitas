@@ -1,8 +1,8 @@
 <div align="center">
   <img src="./snek.gif" alt="Jesus Fleitas Cyberpunk AI" width="250" style="border-radius: 10px; margin-bottom: 20px;" />
 
-  # Hola 👋, soy Jesús Fleitas
-  ### *Product Manager, Arquitecto Tech & GTM Strategist*
+  # 👋 Hola!, soy Jesús Fleitas
+  ### *Founder de [Fusa Labs](https://github.com/Fusa-Labs), Product Manager & Design Marketing Strategist*
   
 </div>
 
